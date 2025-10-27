@@ -1,3 +1,5 @@
+// daniel elimelech and elihai afuta
+
 for(let i = 2 ; i<237 ; i++)
 {
     let count = 0 ;
@@ -12,4 +14,5 @@ for(let i = 2 ; i<237 ; i++)
     {
         console.log(i) ;
     }
+
 }
